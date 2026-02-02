@@ -1,7 +1,7 @@
 Personal Portfolio Website
 
-This project is a personal portfolio website developed using HTML, CSS, and JavaScript.
-It is designed to present personal information, technical skills, and project details in a structured and professional manner.
+-This project is a personal portfolio website developed using HTML, CSS, and JavaScript.
+-It is designed to present personal information, technical skills, and project details in a structured and professional manner.
 
 Overview
 
@@ -10,37 +10,37 @@ This project provides a simple and effective platform to highlight skills and le
 
 Objectives
 
-The objectives of this project are:
+-The objectives of this project are:
 
-To design a professional and responsive portfolio website
+-To design a professional and responsive portfolio website
 
-To organize skills and projects in a clear and presentable format
+-To organize skills and projects in a clear and presentable format
 
-To demonstrate fundamental web development concepts
+-To demonstrate fundamental web development concepts
 
-To create a single-page user experience with interactive navigation
+-To create a single-page user experience with interactive navigation
 
 Key Features
 
-Professional hero section with background image
+-Professional hero section with background image
 
-Skills section displayed using a card-based layout
+-Skills section displayed using a card-based layout
 
-Projects section describing academic and technical work
+-Projects section describing academic and technical work
 
-Contact section for basic information
+-Contact section for basic information
 
-Navigation system to show and hide sections dynamically
+-Navigation system to show and hide sections dynamically
 
-Responsive and user-friendly interface
+-Responsive and user-friendly interface
 
 Technologies Used
 
-HTML5 for webpage structure
+-HTML5 for webpage structure
 
-CSS3 for layout and styling
+-CSS3 for layout and styling
 
-JavaScript for interactivity and navigation
+-JavaScript for interactivity and navigation
 
 Working Principle
 
