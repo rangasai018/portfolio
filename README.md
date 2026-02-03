@@ -6,6 +6,7 @@ It is designed to present personal information, technical skills, and project de
 **Overview:**
 
 • A portfolio website serves as a digital profile for showcasing academic background and technical competencies.
+
 • This project provides a simple and effective platform to highlight skills and learning progress in the fields of web development and cyber security.
 
 **Objectives:**
